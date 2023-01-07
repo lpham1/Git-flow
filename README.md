@@ -4,7 +4,7 @@ This project is created to demonstrate simple workflow with Github
 
 ## this change is made on remote repository
 
-##myBranch
+## myBranch
 
 this line is written on myBranch
 some basic commands
@@ -14,5 +14,6 @@ some basic commands
 3. git pull
 4. git push
 
-##main
+## main
+
 a new change is made on main
