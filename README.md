@@ -7,3 +7,9 @@ This project is created to demonstrate simple workflow with Github
 ##myBranch
 
 this line is written on myBranch
+some basic commands
+
+1. git add --all
+2. git commit -m ""
+3. git pull
+4. git push
